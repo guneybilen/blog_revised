@@ -1,0 +1,30 @@
+{  
+  "user_created": "kullanıcı başarıyla oluşturuldu",
+  "user_not_found": "kullanıcı bulunamadı",
+  "userName_already_in_use": "kullanıcı adı kullanılmaktadır",
+  "email_already_in_use": "email sistemde kayıtlıdır",
+  "email_not_valid": "email geçerli bir email adresi değil",
+  "incorrect_password": "yanlış şifre",
+  "pending_account": "işlemdeki hesap",
+  "a_technical_problem_occurred": "teknik bir problem oldu. lütfen sonra tekrar deneyin",
+  "pending": "işlemde. lütfen email kutunuzu kontrol ediniz ve gerekli harekete geçiniz.",
+  "registration_completion_email": "kayıt işlemi tamamlama emaili",
+  "signup_email_html_message": "{{h2}}teşekkür ederiz! {{h2End}} {{h3}}Kayıt işleminizi tamamlayabilmemiz için lütfen {{br}} {{a}} linkine tıklayın...{{h3End}}",
+  "signup_email_text_message": "teşekkür ederiz. kayıt işleminizi tamamlamamız için lütfen {{resetURL}} linkini kopyalıp tarayıcınıza yapıstırın.",
+  "token_is_invalid_or_expired": "geçersiz yada tarihi geçmiş email jetonu",
+  "password_length": "şifre 8 karakterden kısa veya 70 karakterden uzun olamaz",
+  "password_and_confirm_equality": "şifre ve şifre teyit aynı karakterlerden oluşmalı",
+  "technical_problem_when_logging": "teknik bir problem yüzünden web sitesine giriş yapamadiniz",
+  "changedName_and_changedNameConfirm_must_be_equal": "yeni kullanıcı adı ve yeni kullanıcı adı teyit aynı karakterlerden oluşmalı",
+  "username_succseesfully_changed": "kullanıcı adı başarıyla değiştirildi",
+  "password_succseesfully_changed": "şifre başarıyla değiştirildi",
+  "forgot_password_html_message": "{{h3}}şifrenizi mi unuttunuz? lütfen{{br}} {{a}} linkine tıklayın... {{h3End}} {{h3}}{{br}} gönderdiğimiz link 10 dakika sonra geçersiz olacaktır.{{br}} eğer bu emaili hata sonucu aldıysanız veya şifrenizi hatırlarsanız {{br}} bu emaili dikkate almayınız. {{h3End}}",
+  "forgot_password_text_message": "şifrenizi mi unuttunuz? lütfen {{resetURL}} linkini kopyalıp tarayıcınıza yapıstırın. gönderdiğimiz link 10 dakika sonra geçersiz olacaktır. eğer bu emaili hata sonucu aldıysanız veya şifrenizi hatırlarsanız bu emaili dikkate almayınız",
+  "please_provide_all_the_information1": "lütfen bütün veriyi gönderin. lütfen 'email', 'password', 'passwordConfirm', 'userName' bilgilerini gönderin",
+  "please_provide_all_the_information2": "lütfen bütün veriyi gönderin. lütfen 'password', ve 'passwordConfirm' bilgilerini gönderin",
+  "please_provide_all_the_information3": "lütfen bütün veriyi gönderin. lütfen 'changedName' ve 'changedNameConfirm' bilgilerini gönderin",
+  "userName_length": "userName (kullanıcı adı) 3 karakterden az veya 30 karakterden fazla olamaz",
+  "server_error": "sunucu hatası oldu"
+}
+
+
